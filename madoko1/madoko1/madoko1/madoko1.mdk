@@ -38,7 +38,13 @@ Table 1. Test table
 |        |                |
 |        |                |
 
-![image](fig1.png)
+![mygraph5]
+
+
+
+
+
+![image]
 
 
 Madoko is a fast markdown processor for writing professional articles
@@ -51,6 +57,7 @@ with a focus on simplicity and plain text readability.
 Enjoy!
 
 [reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
-
+[image]: images/fig1.png
+[mygraph5]: images/mygraph5.png "mygraph5" { width:auto; max-width:90% }
 
 [BIB]
