@@ -4,7 +4,7 @@ Author        : Arin Basu
 Logo          : False
 Heading depth : 3
 Bibliography: paper.bib
-Bib style   : apa
+Cite style   : natural
 Revision    : 1
 
 
@@ -28,7 +28,7 @@ npm install -g madoko-local
 Once you do this, you can use a command line tool to use madoko. You can use madoko to write locally in a browser (such as Firefox or Chrome) but also store it in Github or store it in dropbox etc. 
 
 We will explore how we can use tables, citations, reference formatting, formulae etc. 
-Citation [@li2015heat] stated that. 
+Li [@li2015heat] stated that. 
 
 
 
