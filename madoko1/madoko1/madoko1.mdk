@@ -1,0 +1,44 @@
+Title         : How to use Madoko
+Subtitle      : The essentials
+Author        : Arin Basu
+Logo          : False
+Heading depth : 3
+Bibliography: paper.bib
+Bib style   : plainnat
+Revision    : 1
+
+
+[TITLE]
+
+How to use Madoko
+------------------
+
+1. Start with meta data
+2. The meta data must be at the head of the document
+3. key: value
+4. The value can be indented, etc
+5. change the cog button at the right hand corner and allow for delayed view
+
+The first thing you want to do is to install madoko local, do:
+
+```
+npm install -g madoko-local
+
+```
+Once you do this, you can use a command line tool to use madoko. You can use madoko to write locally in a browser (such as Firefox or Chrome) but also store it in Github or store it in dropbox etc. 
+
+We will explore how we can use tables, citations, reference formatting, formulae etc. 
+Citation [@li2015heat] stated that. 
+
+
+
+Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+Enjoy!
+
+[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
